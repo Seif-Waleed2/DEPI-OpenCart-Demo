@@ -36,9 +36,9 @@ This project is an automation testing framework built for the [OpenCart Demo Web
 2. Open the project in IntelliJ IDEA.
 3. Ensure JDK 17 and Maven are installed and configured.
 4. Install project dependencies (Maven will handle it).
-5. Right-click on `testng.xml` ➔ **Run 'testng.xml'**.
+5. Right-click on `Test.xml` ➔ **Run 'Test.xml'**.
 
-✅ Test execution will start and the reports will be generated under the `test-output/` folder.
+
 
 ---
 
@@ -49,10 +49,10 @@ After test execution:
 - Open the HTML report located at:
 
 ```
-test-output/OpenCartTestReport.html
+test-output/ExtendReport.html
 ```
 
-- View detailed results including pass/fail status for each test, execution time, and screenshots (if captured).
+
 
 ---
 
