@@ -23,23 +23,7 @@ This project is an automation testing framework built for the [OpenCart Demo Web
 
 ---
 
-## 📂 Project Structure
 
-```
-DEPI-OpenCart-Demo/
- ├── src/
- │    ├── main/
- │    │    └── java/
- │    │         ├── base/        # Base test class for setup and teardown
- │    │         └── utilities/   # Utility classes (waits, helpers, etc.)
- │    └── test/
- │         └── java/
- │              └── tests/       # Test classes (RegisterTests, LoginTests, etc.)
- ├── pom.xml                     # Maven build file
- ├── testng.xml                  # TestNG suite configuration
- ├── .gitignore                  # Files and folders to ignore in Git
- └── README.md                   # Project description
-```
 
 ---
 
@@ -88,8 +72,8 @@ test-output/OpenCartTestReport.html
 
 ## 📞 Contact
 
-Created by **Seif Waleed Abdel Monsef Shalaby**  
-Feel free to connect via [LinkedIn](https://www.linkedin.com/) *(insert your profile link if you want)*
+Created by **Seif Waleed Shalaby**  
+Feel free to connect via [LinkedIn](https://www.linkedin.com/) *[Portfolio](https://seif-waleed-portfolio.framer.website/)*
 
 ---
 
