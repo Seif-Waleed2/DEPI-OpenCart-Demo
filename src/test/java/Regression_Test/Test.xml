@@ -1,0 +1,96 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite1" verbose="1">
+    <test name="Nopackage">
+        <classes>
+            <class name="Tests.RegisterPage">
+                <methods>
+                    <include name="User_Can_Register_Successfully"/>
+                    <include name="User_Can_not_Register_Successfully"/>
+                </methods>
+            </class>
+            <class name="Tests.loginTesting">
+                <methods>
+                    <include name="validLogIn"/>
+                    <include name="invalidCredential"/>
+                    <include name="invalidEmail"/>
+                </methods>
+            </class>
+            <class name="Tests.ForgetPasswordTest">
+                <methods>
+                    <include name="ForgottenPasswordWithValidEmail"/>
+                    <include name="ForgottenPasswordWithInvalidEmail"/>
+                </methods>
+            </class>
+            <class name="Tests.HomePage">
+                <methods>
+                    <include name="Logged_Users_Could_Select_Different_categories"/>
+                    <include name="Logged_UsersCould_Search_For_Any_Product"/>
+                </methods>
+            </class>
+            <class name="Tests.Home_test">
+                <methods>
+                    <include name="iphone6"/>
+                </methods>
+            </class>
+            <class name="Tests.SwitchCurrenciesTest">
+                <methods>
+                    <include name="SwitchFromUSD_To_Euro"/>
+                    <include name="SwitchFromEuro_To_USD"/>
+                    <include name="SwitchFromEuro_To_Pound"/>
+                </methods>
+            </class>
+            <class name="Tests.HoverTest">
+                <methods>
+                    <include name="HoverOverMainCategoriesRandomly"/>
+                </methods>
+            </class>
+            <class name="Tests.SelectTest">
+                <methods>
+                    <include name="RightSelect"/>
+                    <include name="SelectMac"/>
+                </methods>
+            </class>
+            <class name="Tests.AddItemsToShoppingCartText">
+                <methods>
+                    <include name="ViewCart"/>
+                    <include name="RemoveItemFromCart"/>
+                    <include name="CheckoutForItem"/>
+                </methods>
+            </class>
+            <class name="Tests.ShoppingCart">
+                <methods>
+                    <include name="ClearCart"/>
+                </methods>
+            </class>
+            <class name="Tests.wishlist_compare_test">
+                <methods>
+                    <include name="Add_to_wishlist"/>
+                    <include name="Add_to_compare"/>
+                </methods>
+            </class>
+            <class name="Tests.ReturnsPage">
+                <methods>
+                    <include name="LoggedUserCanCreateReturnRequest"/>
+                </methods>
+            </class>
+            <class name="Tests.order_test">
+                <methods>
+                    <include name="Add_cart"/>
+                    <include name="order"/>
+                </methods>
+            </class>
+            <class name="Tests.Adress_test">
+                <methods>
+                    <include name="Delete_default_address"/>
+                    <include name="Add_newadress"/>
+                </methods>
+            </class>
+            <class name="Tests.Newsletter_test">
+                <methods>
+                    <include name="subscribe_newsletter"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
