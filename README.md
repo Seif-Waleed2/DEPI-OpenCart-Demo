@@ -61,12 +61,11 @@ test-output/ExtendReport.html
 | Name | Role | Responsibilities |
 |:---|:---|:---|
 | **Seif Waleed Abdel Monsef Shalaby** | Team Leader & Automation Test Engineer | - Supervise project execution<br>- Develop and execute automation tests using Selenium<br>- Review test reports and analyze results |
-| **Mahmoud Sabry Shibl Mahmoud Al-Bandari** | Test Manager | - Prepare test plans and manage test processes<br>- Track testing progress and manage Jira for defect tracking |
+| **Mahmoud Sabry Al-Bandari** | Database Tester | - Data validation: Ensure data is correctly stored, retrieved, and manipulated.<br>- Testing database procedures: Test stored procedures, triggers, and functions. |
 | **Islam Nasser Ahmed Mohamed Gharib** | UI Tester | - Develop UI test cases for cross-browser and device compatibility<br>- Execute UI/UX testing |
 | **Maha Mamdouh Mohamed Mostafa** | Performance Tester | - Set up performance tests using JMeter<br>- Analyze load and performance test results |
-| **Bassant Mohammed Mohammed** | API Tester | - Perform API tests using Postman<br>- Validate data responses and log defects |
 | **Habiba Mohamed Rizk Abdel Bari** | Defect Manager | - Track and manage defects in Jira<br>- Coordinate with the team to prioritize fixes |
-| **Mohamed Hassan Mohamed Othman** | CI/CD Integration Specialist | - Set up CI/CD environment to integrate tests with Jenkins<br>- Ensure automated tests run with every update |
+| **Mohamed Hassan Mohamed Othman** | API Tester | - Perform API tests using Postman<br>- Validate data responses and log defects |
 
 ---
 
