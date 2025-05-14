@@ -62,7 +62,7 @@ test-output/ExtendReport.html
 |:---|:---|:---|
 | **Seif Waleed Shalaby** | Team Leader & Automation Test Engineer | - Supervise project execution<br>- Develop and execute automation tests using Selenium<br>- Review test reports and analyze results |
 | **Mahmoud Sabry Al-Bandari** | Database Tester | - Data validation: Ensure data is correctly stored, retrieved, and manipulated.<br>- Testing database procedures: Test stored procedures, triggers, and functions. |
-| **Islam Nasser Gharib** | UI Tester | - Develop UI test cases for cross-browser and device compatibility<br>- Execute UI/UX testing |
+| **Islam Nasser Gharib** | Team Leader Assistant & UI / UX Tester & Test Cases Execution. | - Develop UI test cases for cross-browser and device compatibility<br>- Execute UI/UX testing |
 | **Maha Mamdouh Mohamed Mostafa** | Performance Tester | - Set up performance tests using JMeter<br>- Analyze load and performance test results |
 | **Habiba Mohamed Rizk Abdel Bari** | Defect Manager | - Track and manage defects in Jira<br>- Coordinate with the team to prioritize fixes |
 | **Mohamed Hassan Mohamed Othman** | API Tester | - Perform API tests using Postman<br>- Validate data responses and log defects |
